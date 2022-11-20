@@ -1,0 +1,8 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.card-header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+ 
+  }
